@@ -1,6 +1,8 @@
 # Recipe Bot
 The Recipe Bot is a web application that generates recipes based on the user's search query, powered by the OpenAI API. It uses natural language processing (NLP) and machine learning algorithms to understand the user's intent and retrieve relevant recipes from its database.
 
+![recipe bot](recipe-bot.png)
+
 ## Installation
 To install and run the Recipe Bot locally, follow these steps:
 
