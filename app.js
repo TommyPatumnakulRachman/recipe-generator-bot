@@ -2,7 +2,7 @@ const chatForm = document.getElementById("chat-form");
 const chatInput = document.getElementById("chat-input");
 const chatMessages = document.getElementById("chat-messages");
 
-const api_key = "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";
+const api_key = "";
 
 function formatString(str) {
   const lines = str.split('\n');
