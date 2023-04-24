@@ -7,7 +7,8 @@ The Recipe Bot is a web application that generates recipes based on the user's s
 To install and run the Recipe Bot locally, follow these steps:
 
 1. Clone this repository to your local machine using **git clone**.
-2. Open the **index.html** file in your web browser.
+2. Use your API key and insert into the app.js file.
+3. Open the **index.html** file in your web browser.
 
 ## Usage
 To use the Recipe Bot, simply type your recipe query into the search bar and hit enter. The bot will use its AI algorithms to analyze your query and generate a list of relevant recipes.
